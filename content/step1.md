@@ -1,7 +1,7 @@
 ---
-title: Defining Arrays
-file: step1.php
-objective: Add two new string values to the array: `test1` and `test2`
+title: "Defining Arrays"
+file: "step1.php"
+objective: "Add two new string values to the array: `test1` and `test2`"
 ---
 
 The first step to using arrays in PHP is to learn about what they are and how they're defined. An array in PHP is a set of values held in a special type of variable. These values can be just about anything including:

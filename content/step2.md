@@ -1,7 +1,7 @@
 ---
-title: Referencing Values in Arrays
-file: step2.php
-objective: Using the current array, change the value of `test2` to `test4` using numeric indexes and append a new value of "pineapple" to the array
+title: "Referencing Values in Arrays"
+file: "step2.php"
+objective: "Using the current array, change the value of `test2` to `test4` using numeric indexes and append a new value of \"pineapple\" to the array"
 ---
 
 Now that we've seen an example of how to set values into an array, let's look at the other side: getting those values back out. While there are [built-in functions](http://php.net/manual/en/ref.array.php) that can help with it, there's a much simpler way to reference values in an array. 
