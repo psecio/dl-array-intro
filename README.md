@@ -21,6 +21,7 @@ Each of these files should start with the following front-matter:
 ---
 title: <Title of the step>
 file: <Filename>
+objective: <Changes/updates they need to make to pass the step>
 ---
 ```
 
