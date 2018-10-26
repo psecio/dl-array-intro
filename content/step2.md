@@ -1,6 +1,7 @@
 ---
 title: Referencing Values in Arrays
 file: step2.php
+objective: Using the current array, change the value of `test2` to `test4` using numeric indexes and append a new value of "pineapple" to the array
 ---
 
 Now that we've seen an example of how to set values into an array, let's look at the other side: getting those values back out. While there are [built-in functions](http://php.net/manual/en/ref.array.php) that can help with it, there's a much simpler way to reference values in an array. 
@@ -27,7 +28,3 @@ Or, if we simply want to append it to the end of the array, we can use the empty
 ```
 $array[] = 'test3';
 ```
-
-### @todo
-
-Using the array already defined in the example code, use numeric indexes to change the "test2" value to "test4" and append a new value to the array of "pineapple".

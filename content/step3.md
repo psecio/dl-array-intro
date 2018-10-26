@@ -1,6 +1,7 @@
 ---
 title: Array Functions
 file: step3.php
+objective: This is the sample objective
 ---
 
 Arrays in PHP are very powerful so it should come as no surprise that the language has a wide array of functions that you can use to manipulate them. These vary in functionality and include the ability to:
